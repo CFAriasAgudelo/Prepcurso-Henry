@@ -1,2 +1,1 @@
-# Prepcurso-Henry
-este es el ensayo del repositorio del modulo 1 del precurso Henry
+Este pryecto es una prueba de como crear un repositorio y clonarlo desde Github a mi escritorio local.
